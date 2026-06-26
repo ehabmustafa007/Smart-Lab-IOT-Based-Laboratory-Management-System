@@ -67,6 +67,10 @@ The authentication workflow follows these steps:
 7. Door locks again after a predefined interval.
 
 ---
+## 🛠 Images
+<img width="1280" height="960" alt="SmartLab 3D Image 1" src="https://github.com/user-attachments/assets/b2f85b3e-2b47-4d2c-b208-f91948d05c1b" />
+<img width="1280" height="960" alt="SmartLab 3D Image 2" src="https://github.com/user-attachments/assets/675b3174-89ff-48fe-86a3-cead25af16d7" />
+
 
 ## 🛠 Technologies Used
 
